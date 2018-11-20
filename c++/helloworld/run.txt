@@ -1,0 +1,1 @@
+COMMAND_PROMPT> g++ hello.cc -o hello
